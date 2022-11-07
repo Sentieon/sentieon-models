@@ -47,9 +47,9 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 
 [Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelUltima0.4.model
 
-[Pacbio HiFi whole genome SV]: https://s3.amazonaws.com/sentieon-release/other/LongReadSVHiFiBeta0.1.model
+[Pacbio HiFi whole genome SV]: https://s3.amazonaws.com/sentieon-release/other/SentieonLongReadSVHiFiBeta0.1.model
 
-[ONT whole genome SV]: https://s3.amazonaws.com/sentieon-release/other/LongReadSVONTBeta0.1.model
+[ONT whole genome SV]: https://s3.amazonaws.com/sentieon-release/other/SentieonLongReadSVONTBeta0.1.model
 
 [Sentieon's appnote on DNAscope for short-reads]: https://support.sentieon.com/appnotes/dnascope_ml/
 [Sentieon's appnote on DNAscope LongRead]: https://support.sentieon.com/appnotes/dnascope_hifi/
