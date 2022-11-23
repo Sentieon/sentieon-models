@@ -41,7 +41,7 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 [Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModel1.1.model
 [Illumina whole exome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelIlluminaWES0.1.model
 
-[PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.4.pipeline.tar.gz
+[PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.5.pipeline.tar.gz
 
 [Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
 

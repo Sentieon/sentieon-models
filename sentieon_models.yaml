@@ -5,7 +5,7 @@
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModel1.1.model
       WES: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelIlluminaWES0.1.model
     PacBio_HiFi:
-      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.4.pipeline.tar.gz
+      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.5.pipeline.tar.gz
     Element_Biosciences:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
     Ultima_Genomics:
