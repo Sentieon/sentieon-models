@@ -15,7 +15,7 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 * [PacBio HiFi whole genome] - Includes model files and a pipeline script.
 
 #### MGI and Complete Genomics
-* MGI whole genome
+* [MGI whole genome]
 
 #### Element Biosciences
 * [Element Biosciences whole genome]
@@ -42,6 +42,8 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 [Illumina whole exome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelIlluminaWES0.1.model
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.5.pipeline.tar.gz
+
+[MGI whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelBGI1.0.model
 
 [Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
 

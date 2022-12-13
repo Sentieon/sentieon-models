@@ -1,11 +1,13 @@
 ---  # Sentieon model files
-  Updated on: "2022-11-07"
+  Updated on: "2022-12-13"
   DNAscope_models:  # Model files for small variant calling (SNVs and indels)
     Illumina:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModel1.1.model
       WES: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelIlluminaWES0.1.model
     PacBio_HiFi:
       WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.5.pipeline.tar.gz
+    MGI:
+      WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelBGI1.0.model
     Element_Biosciences:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
     Ultima_Genomics:
