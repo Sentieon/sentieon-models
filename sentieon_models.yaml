@@ -8,6 +8,7 @@
       WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.5.pipeline.tar.gz
     MGI:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelBGI1.0.model
+      WES: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelBGIWES0.2.model
     Element_Biosciences:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
     Ultima_Genomics:
