@@ -52,7 +52,7 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 
 [Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
 
-[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelUltima0.4.model
+[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelUltima0.5.model
 
 [Pacbio HiFi whole genome SV]: https://s3.amazonaws.com/sentieon-release/other/SentieonLongReadSVHiFiBeta0.1.model
 

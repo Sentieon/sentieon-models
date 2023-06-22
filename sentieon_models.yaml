@@ -12,7 +12,7 @@
     Element_Biosciences:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
     Ultima_Genomics:
-      WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelUltima0.4.model
+      WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelUltima0.5.model
   LongReadSV_models:  # Model files for structural variant calling
     PacBio_HiFi:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonLongReadSVHiFiBeta0.1.model
