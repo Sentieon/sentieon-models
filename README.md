@@ -6,13 +6,10 @@ In this README, we provide links to the most recent versions of the DNAscope and
 
 DNAscope and LongReadSV are available as part of the Sentieon software package and the model files listed below require a valid license for use. Please contact info@sentieon.com for access to the Sentieon software and an evaluation license.
 
-## DNAscope model files for small variant calling (SNVs and indels)
+## DNAscope model bundles for alignment and variant calling
 #### Illumina
 * [Illumina whole genome]
 * [Illumina whole exome]
-
-#### PacBio
-* [PacBio HiFi whole genome] - Includes model files and a pipeline script.
 
 #### MGI and Complete Genomics
 * [MGI whole genome]
@@ -23,6 +20,10 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 
 #### Ultima Genomics
 * [Ultima Genomics whole genome]
+
+## DNAscope model files for small variant calling (SNVs and indels)
+#### PacBio
+* [PacBio HiFi whole genome] - Includes model files and a pipeline script.
 
 ## LongReadSV model files for structural variant calling
 #### PacBio
@@ -42,17 +43,17 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 **[Advanced Whole Genome Sequencing Using an Entirely PCR-free Massively Parallel Sequencing Workflow]** - A preprint describing the adaptation of DNAscope for seqeuncing data produced by seqeuncing platforms from MGI/Complete Genomics.  
 **[Sequencing by avidity enables high accuracy with low reagent consumption]** - A preprint presenting the Element Biosciences sequencing platform. The preprint uses Sentieon's DNAscope model for Element Biosciences for variant calling.  
 
-[Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModel1.1.model
-[Illumina whole exome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelIlluminaWES0.1.model
+[Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeIlluminaWGS2.0.bundle
+[Illumina whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeIlluminaWES2.0.bundle
+
+[MGI whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWGS2.0.bundle
+[MGI whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWES2.0.bundle
+
+[Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.0.bundle
+
+[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeUltimaWGS2.0.bundle
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.5.pipeline.tar.gz
-
-[MGI whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelBGI1.0.model
-[MGI whole exome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelBGIWES0.2.model
-
-[Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelElementBio0.3.model
-
-[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonDNAscopeModelUltima0.5.model
 
 [Pacbio HiFi whole genome SV]: https://s3.amazonaws.com/sentieon-release/other/SentieonLongReadSVHiFiBeta0.1.model
 
