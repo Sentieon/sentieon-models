@@ -35,12 +35,12 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 ## References
 #### Application Notes
 **[Sentieon's appnote on DNAscope for short-reads]** - A document with detailed usage information for the Sentieon short-read pipeline.  
-**[Sentieon's appnote on DNAscope LongRead]** - A document with detailed usage information for the Sentieon long-read piepline.  
+**[Sentieon's appnote on DNAscope LongRead]** - A document with detailed usage information for the Sentieon long-read pipeline.  
 **[Sentieon's appnote on LongReadSV]** - A document with detailed usage information for the Sentieon LongReadSV tool.  
 #### Manuscripts and Preprints
 **[DNAscope: High accuracy small variant calling using machine learning]** - A preprint describing DNAscope's methodology, using the DNAscope model for Illumina reads.  
-**[Sentieon DNAscope LongRead – A highly Accurate, Fast, and Efficient Pipeline for Germline Variant Calling from PacBio HiFi reads]** - A preprint describng the DNAscope pipeine for calling variants from PacBio HiFi data.  
-**[Advanced Whole Genome Sequencing Using an Entirely PCR-free Massively Parallel Sequencing Workflow]** - A preprint describing the adaptation of DNAscope for seqeuncing data produced by seqeuncing platforms from MGI/Complete Genomics.  
+**[Sentieon DNAscope LongRead – A highly Accurate, Fast, and Efficient Pipeline for Germline Variant Calling from PacBio HiFi reads]** - A preprint describing the DNAscope pipeline for calling variants from PacBio HiFi data.  
+**[Advanced Whole Genome Sequencing Using an Entirely PCR-free Massively Parallel Sequencing Workflow]** - A preprint describing the adaptation of DNAscope for sequencing data produced by sequencing platforms from MGI/Complete Genomics.  
 **[Sequencing by avidity enables high accuracy with low reagent consumption]** - A preprint presenting the Element Biosciences sequencing platform. The preprint uses Sentieon's DNAscope model for Element Biosciences for variant calling.  
 
 [Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeIlluminaWGS2.0.bundle
