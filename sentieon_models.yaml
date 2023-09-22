@@ -1,5 +1,5 @@
 ---  # Sentieon model files
-  Updated on: "2023-8-29"
+  Updated on: "2023-9-22"
   DNAscope_bundles:  # Model bundles for alignment and variant calling
     Illumina:
       WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeIlluminaWGS2.0.bundle
@@ -13,9 +13,5 @@
       WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeUltimaWGS2.0.bundle
     Oxford_Nanopore:
       WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.0.bundle
-  DNAscope_models:  # Model files for small variant calling (SNVs and indels)
     PacBio_HiFi:
-      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeHiFiBeta0.5.pipeline.tar.gz
-  LongReadSV_models:  # Model files for structural variant calling
-    PacBio_HiFi:
-      WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonLongReadSVHiFiBeta0.1.model
+      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.0.bundle
