@@ -27,6 +27,10 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 #### Oxford Nanopore
 * [ONT whole genome]
 
+## TNscope model bundles for somatic variant calling
+#### Ultima Genomics
+* [Ultima Genomics whole genome]
+
 ## References
 #### Application Notes
 **[Sentieon's appnote on DNAscope for short-reads]** - A document with detailed usage information for the Sentieon short-read pipeline.  
@@ -46,7 +50,7 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 
 [Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.0.bundle
 
-[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeUltimaWGS2.0.bundle
+[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.0.bundle
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.1.bundle
 
