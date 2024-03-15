@@ -31,6 +31,9 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 #### Ultima Genomics
 * [Ultima Genomics whole genome]
 
+## Model bundle files
+Model bundles package multiple models into a single file. Bundles use the [`ar` archive format] and the contents of the bundle file can be listed using the command `ar t <bundle>`.
+
 ## References
 #### Application Notes
 **[Sentieon's appnote on DNAscope for short-reads]** - A document with detailed usage information for the Sentieon short-read pipeline.  
@@ -56,6 +59,8 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 
 [ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.1.bundle
 
+
+[`ar` archive format]: https://en.wikipedia.org/wiki/Ar_(Unix)
 
 [Sentieon's appnote on DNAscope for short-reads]: https://support.sentieon.com/appnotes/dnascope_ml/
 [Sentieon's appnote on DNAscope LongRead]: https://support.sentieon.com/appnotes/dnascope_hifi/
