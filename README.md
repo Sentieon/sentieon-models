@@ -63,7 +63,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [`ar` archive format]: https://en.wikipedia.org/wiki/Ar_(Unix)
 
 [Sentieon's appnote on DNAscope for short-reads]: https://support.sentieon.com/appnotes/dnascope_ml/
-[Sentieon's appnote on DNAscope LongRead]: https://support.sentieon.com/appnotes/dnascope_hifi/
+[Sentieon's appnote on DNAscope LongRead]: https://support.sentieon.com/appnotes/dnascope_lr/
 [Sentieon's appnote on LongReadSV]: https://support.sentieon.com/appnotes/longread_sv/
 [DNAscope: High accuracy small variant calling using machine learning]: https://www.biorxiv.org/content/10.1101/2022.05.20.492556v1
 [Sentieon DNAscope LongRead – A highly Accurate, Fast, and Efficient Pipeline for Germline Variant Calling from PacBio HiFi reads]: https://www.biorxiv.org/content/10.1101/2022.06.01.494452v1
