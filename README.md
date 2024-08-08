@@ -45,7 +45,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 **[Advanced Whole Genome Sequencing Using an Entirely PCR-free Massively Parallel Sequencing Workflow]** - A preprint describing the adaptation of DNAscope for sequencing data produced by sequencing platforms from MGI/Complete Genomics.  
 **[Sequencing by avidity enables high accuracy with low reagent consumption]** - A preprint presenting the Element Biosciences sequencing platform. The preprint uses Sentieon's DNAscope model for Element Biosciences for variant calling.  
 
-[Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaWGS2.1.bundle
+[Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaWGS2.2.bundle
 [Illumina whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeIlluminaWES2.1.bundle
 
 [MGI whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWGS2.0.bundle
