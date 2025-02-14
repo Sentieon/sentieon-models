@@ -27,13 +27,13 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 #### Oxford Nanopore
 * [ONT whole genome]
 
-## TNscope model bundles for somatic variant calling
-#### Ultima Genomics
-* [Ultima Genomics whole genome]
-
 #### Salus
 * [Salus whole genome]
 * [Salus whole exome]
+
+## TNscope model bundles for somatic variant calling
+#### Ultima Genomics
+* [Ultima Genomics whole genome]
 
 ## Model bundle files
 Model bundles package multiple models into a single file. Bundles use the [`ar` archive format] and the contents of the bundle file can be listed using the command `ar t <bundle>`.
