@@ -31,6 +31,10 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 #### Ultima Genomics
 * [Ultima Genomics whole genome]
 
+#### Salus
+* [Salus whole genome]
+* [Salus whole exome]
+
 ## Model bundle files
 Model bundles package multiple models into a single file. Bundles use the [`ar` archive format] and the contents of the bundle file can be listed using the command `ar t <bundle>`.
 
@@ -58,6 +62,9 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.1.bundle
 
 [ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.1.bundle
+
+[Salus whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWGS1.0.bundle
+[Salus whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWES1.0.bundle
 
 
 [`ar` archive format]: https://en.wikipedia.org/wiki/Ar_(Unix)
