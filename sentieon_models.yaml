@@ -15,6 +15,9 @@
       WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.1.bundle
     PacBio_HiFi:
       WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.1.bundle
+    Salus:
+      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWGS1.0.bundle
+      WES: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWES1.0.bundle
   TNscope_bundles:
     Ultima_Genomics:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.0.bundle
