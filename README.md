@@ -62,10 +62,10 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaWGS2.2.bundle
 [Illumina whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeIlluminaWES2.1.bundle
 
-[MGI whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWGS2.0.bundle
-[MGI whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWES2.0.bundle
+[MGI whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWGS2.1.bundle
+[MGI whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWES2.1.bundle
 
-[Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.0.bundle
+[Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.1.bundle
 
 [Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.0.bundle
 
@@ -78,7 +78,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [Illumina PacBio whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaPacBio1.1.bundle
 [Illumina ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaONT1.1.bundle
-[Ultima ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaONT1.0.model.bundle
+[Ultima ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaONT1.1.model.bundle
 
 
 [`ar` archive format]: https://en.wikipedia.org/wiki/Ar_(Unix)

@@ -1,14 +1,14 @@
 ---  # Sentieon model files
-  Updated on: "2025-5-1"
+  Updated on: "2025-7-8"
   DNAscope_bundles:  # Model bundles for alignment and variant calling
     Illumina:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaWGS2.2.bundle
       WES: https://s3.amazonaws.com/sentieon-release/other/DNAscopeIlluminaWES2.1.bundle
     MGI:
-      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWGS2.0.bundle
-      WES: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWES2.0.bundle
+      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWGS2.1.bundle
+      WES: https://s3.amazonaws.com/sentieon-release/other/DNAscopeMGIWES2.1.bundle
     Element_Biosciences:
-      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.0.bundle
+      WGS: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.1.bundle
     Ultima_Genomics:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.0.bundle
     Oxford_Nanopore:
@@ -27,4 +27,4 @@
     Illumina_ONT:
       WGS: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaONT1.1.bundle
     Ultima_ONT:
-      WGS: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaONT1.0.model.bundle
+      WGS: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaONT1.1.bundle
