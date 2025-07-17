@@ -78,7 +78,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [Illumina PacBio whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaPacBio1.1.bundle
 [Illumina ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaONT1.1.bundle
-[Ultima ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaONT1.1.model.bundle
+[Ultima ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaONT1.1.bundle
 
 
 [`ar` archive format]: https://en.wikipedia.org/wiki/Ar_(Unix)
