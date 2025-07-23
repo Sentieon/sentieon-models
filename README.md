@@ -67,7 +67,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.1.bundle
 
-[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.0.bundle
+[Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.1.bundle
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.1.bundle
 
