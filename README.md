@@ -31,6 +31,10 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 * [Salus whole genome]
 * [Salus whole exome]
 
+## DNAscope model bundles for pangenome alignment and variant calling
+#### Illumina
+* [Giraffe Illumina whole genome]
+
 ## TNscope model bundles for somatic variant calling
 #### Ultima Genomics
 * [Ultima Genomics whole genome]
@@ -68,6 +72,8 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [Element Biosciences whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWGS2.1.bundle
 
 [Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.1.bundle
+
+[Giraffe Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeWGS1.0.bundle
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.1.bundle
 
