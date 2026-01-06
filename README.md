@@ -1,4 +1,4 @@
-# Update-to-date Sentieon models
+# Up-to-date Sentieon models
 
 Sentieon DNAscope and LongReadSV support variant calling with multiple short and long-read sequencing platforms. For each of these platforms, Sentieon provides model files that can be used to improve variant calling accuracy by accounting for platform-specific bias in the sequencing data. 
 
@@ -32,7 +32,11 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 * [Salus whole genome]
 * [Salus whole exome]
 
-## DNAscope model bundles for pangenome alignment and variant calling
+## DNAscope model bundles for pangenome alignment
+#### Illumina
+* [Illumina whole genome pangenome]
+
+## DNAscope model bundles for vg giraffe alignment and variant calling
 #### Illumina
 * [Giraffe Illumina whole genome]
 
@@ -74,6 +78,8 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [Element Biosciences whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeElementBioWES2.1.bundle
 
 [Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.1.bundle
+
+[Illumina whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeRealignWGS1.0.bundle
 
 [Giraffe Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeWGS1.0.bundle
 
