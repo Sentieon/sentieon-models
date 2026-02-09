@@ -90,7 +90,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [Giraffe Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeWGS1.0.bundle
 
-[PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.1.bundle
+[PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.3.bundle
 
 [ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.2.bundle
 
