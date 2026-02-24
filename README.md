@@ -86,7 +86,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.1.bundle
 
 [Illumina whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeRealignWGS1.0.bundle
-[Ultima Genomics whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltimaPangenomeRealignWGS1.0.bundle
+[Ultima Genomics whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltimaPangenomeRealignWGS1.2.bundle
 
 [Giraffe Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeWGS1.0.bundle
 
