@@ -92,7 +92,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.3.bundle
 
-[ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.2.bundle
+[ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.3.bundle
 
 [Salus whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWGS1.0.bundle
 [Salus whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWES1.0.bundle
