@@ -39,10 +39,6 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 #### Ultima Genomics
 * [Ultima Genomics whole genome pangenome]
 
-## DNAscope model bundles for vg giraffe alignment and variant calling
-#### Illumina
-* [Giraffe Illumina whole genome]
-
 ## TNscope model bundles for somatic variant calling
 #### Ultima Genomics
 * [Ultima Genomics whole genome]
@@ -65,6 +61,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 ## References
 #### Application Notes
+**[Sentieon's appnote on DNAscope Pangenome]** - A document with detailed usage information for the DNAscope Pangenome pipeline.  
 **[Sentieon's appnote on DNAscope for short-reads]** - A document with detailed usage information for the Sentieon short-read pipeline.  
 **[Sentieon's appnote on DNAscope LongRead]** - A document with detailed usage information for the Sentieon long-read pipeline.  
 **[Sentieon's appnote on LongReadSV]** - A document with detailed usage information for the Sentieon LongReadSV tool.  
@@ -88,8 +85,6 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [Illumina whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeRealignWGS1.1.bundle
 [Ultima Genomics whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltimaPangenomeRealignWGS1.2.bundle
 
-[Giraffe Illumina whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeWGS1.0.bundle
-
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.3.bundle
 
 [ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeONT2.3.bundle
@@ -105,6 +100,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [`ar` archive format]: https://en.wikipedia.org/wiki/Ar_(Unix)
 
+[Sentieon's appnote on DNAscope Pangenome]: https://support.sentieon.com/docs/sentieon_cli/#sentieon-pangenome
 [Sentieon's appnote on DNAscope for short-reads]: https://support.sentieon.com/appnotes/dnascope_ml/
 [Sentieon's appnote on DNAscope LongRead]: https://support.sentieon.com/appnotes/dnascope_lr/
 [Sentieon's appnote on LongReadSV]: https://support.sentieon.com/appnotes/longread_sv/
