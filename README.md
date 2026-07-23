@@ -32,9 +32,16 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 * [Salus whole genome]
 * [Salus whole exome]
 
+#### GeneMind
+* [GeneMind whole genome]
+* [GeneMind whole exome]
+
 ## DNAscope model bundles for pangenome alignment and variant calling
 #### Illumina
 * [Illumina whole genome pangenome]
+
+#### GeneMind
+* [GeneMind whole genome pangenome]
 
 #### Ultima Genomics
 * [Ultima Genomics whole genome pangenome]
@@ -83,6 +90,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [Ultima Genomics whole genome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltima1.1.bundle
 
 [Illumina whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeRealignWGS1.2.bundle
+[GeneMind whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonGeneMindPangenomeRealignWGS1.0.bundle
 [Ultima Genomics whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltimaPangenomeRealignWGS1.3.bundle
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.3.bundle
@@ -91,6 +99,9 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [Salus whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWGS1.0.bundle
 [Salus whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeSalusWES1.0.bundle
+
+[GeneMind whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeGeneMindWGS1.0.bundle
+[GeneMind whole exome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopeGeneMindWES1.0.bundle
 
 [Illumina PacBio whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaPacBio1.1.bundle
 [Illumina ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaONT2.0.bundle
