@@ -63,6 +63,13 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 #### Ultima and PacBio
 * [Ultima PacBio whole genome]
 
+## DNAscope model bundles for hybrid short and long-read pangenome variant calling
+#### Illumina and PacBio
+* [Illumina PacBio whole genome pangenome]
+
+#### Illumina and ONT
+* [Illumina ONT whole genome pangenome]
+
 ## Model bundle files
 Model bundles package multiple models into a single file. Bundles use the [`ar` archive format] and the contents of the bundle file can be listed using the command `ar t <bundle>`.
 
@@ -107,6 +114,9 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 [Illumina ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridIlluminaONT2.0.bundle
 [Ultima ONT whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaONT1.1.bundle
 [Ultima PacBio whole genome]: https://s3.amazonaws.com/sentieon-release/other/HybridUltimaPacBio1.0.bundle
+
+[Illumina PacBio whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/HybridPangenomeIlluminaPacBio1.0.bundle
+[Illumina ONT whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/HybridPangenomeIlluminaONT1.0.bundle
 
 
 [`ar` archive format]: https://en.wikipedia.org/wiki/Ar_(Unix)
