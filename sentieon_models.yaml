@@ -1,5 +1,5 @@
 ---  # Sentieon model files
-  Updated on: "2026-10-02"
+  Updated on: "2026-10-12"
   DNAscope_bundles:  # Model bundles for alignment and variant calling
     Illumina:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaWGS2.2.bundle
@@ -27,6 +27,8 @@
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeRealignWGS1.2.bundle
     GeneMind:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonGeneMindPangenomeRealignWGS1.0.bundle
+    Element_Biosciences:
+      WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonElementBioPangenomeRealignWGS1.0.bundle
     Ultima_Genomics:
       WGS: https://s3.amazonaws.com/sentieon-release/other/SentieonUltimaPangenomeRealignWGS1.3.bundle
   TNscope_bundles:

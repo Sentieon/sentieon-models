@@ -43,6 +43,9 @@ DNAscope and LongReadSV are available as part of the Sentieon software package a
 #### GeneMind
 * [GeneMind whole genome pangenome]
 
+#### Element Biosciences
+* [Element Biosciences whole genome pangenome]
+
 #### Ultima Genomics
 * [Ultima Genomics whole genome pangenome]
 
@@ -98,6 +101,7 @@ Model bundles package multiple models into a single file. Bundles use the [`ar` 
 
 [Illumina whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonIlluminaPangenomeRealignWGS1.2.bundle
 [GeneMind whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonGeneMindPangenomeRealignWGS1.0.bundle
+[Element Biosciences whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonElementBioPangenomeRealignWGS1.0.bundle
 [Ultima Genomics whole genome pangenome]: https://s3.amazonaws.com/sentieon-release/other/SentieonUltimaPangenomeRealignWGS1.3.bundle
 
 [PacBio HiFi whole genome]: https://s3.amazonaws.com/sentieon-release/other/DNAscopePacBio2.3.bundle
